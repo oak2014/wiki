@@ -1,8 +1,7 @@
-site_name: My Docs
+site_name: Oak
 
 nav:
 - Home: index.md
 - First: test.md
 
-theme:
-nama: 'material'
+theme: material
